@@ -1,4 +1,4 @@
-## Oiii!! Sou Clara Marques <3
+## Oiii!! Sou Clara Marques 
 
 - 🔭 Hoje curso ciências da computação
 - 🌱 Estudando Java
