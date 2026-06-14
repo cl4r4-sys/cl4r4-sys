@@ -1,7 +1,7 @@
-## Oiii!! Sou Clara Marques 
+## Hii!! I'm Clara Marques.
 
-- 🔭 Hoje curso ciências da computação
-- 🌱 Estudando Java
+- 🔭 Today i am studying computer science
+- <3 Exploring new languages ​​and inventing projects is my specialty
 
 <div>
   <img align="center" alt="Clara-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
